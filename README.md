@@ -1,26 +1,9 @@
 # 2019219027 학번의 프로필 입니다.
 ## Hi there 👋
-### I'm working on <img alt="Java" src= "https://img.shields.io/badge/-Java-red"/>  <img alt="Spring" src=https://img.shields.io/badge/-spring-orange/>  
+## 🔭 I'm working on <img alt="Java" src= "https://img.shields.io/badge/-Java-red"/>  <img alt="Spring" src=https://img.shields.io/badge/-spring-orange/>  <img alt="C++" src=https://img.shields.io/badge/-c%2B%2B-%233CBDB1>  <img alt="MYSQL" src=https://img.shields.io/badge/-MYSQL-%23A8B9CC/>  <img alt="AndirodStudio" src=https://img.shields.io/badge/-AndroidStudio-%233DDC84/>
 
 
+- 📫 How to reach me: > 1559647@gmail.com
 > https://www.google.com
 > https://www.semyung.ac.kr
 
-## B
-<img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-hte-badge&logo=Docker&logoColor=white" />
-
-
-<!--
-**7illusion/7illusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
