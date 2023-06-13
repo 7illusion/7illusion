@@ -1,6 +1,6 @@
 # 2019219027 학번의 프로필 입니다.
-### Hi there 👋
-## I'm working on <img alt="Java" src= "https://img.shields.io/badge/-Java-red"/>
+## Hi there 👋
+### I'm working on <img alt="Java" src= "https://img.shields.io/badge/-Java-red"/>  <img alt="Spring" src=https://img.shields.io/badge/-spring-orange/>  
 
 
 > https://www.google.com
