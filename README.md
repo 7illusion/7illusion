@@ -1,6 +1,6 @@
 # 2019219027 학번의 프로필 입니다.
 ### Hi there 👋
-## I'm working on   <img src="https://img.shields.io/badge/JAVA-#004088?style=for-the-badge&logo=adminer&logoColor=black">
+## I'm working on   <img src="https://img.shields.io/badge/JAVA-#004088?style=for-the-badge&logo=JAVA&logoColor=black">
 
 
 > https://www.google.com
