@@ -1,5 +1,12 @@
+# 2019219027 학번의 프로필 입니다.
 ### Hi there 👋
-## Badge
+## I'm working on   <img src="https://img.shields.io/badge/JAVA-#004088?style=for-the-badge&logo=adminer&logoColor=black">
+
+
+> https://www.google.com
+> https://www.semyung.ac.kr
+
+## B
 <img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-hte-badge&logo=Docker&logoColor=white" />
 
 
